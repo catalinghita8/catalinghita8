@@ -1,4 +1,4 @@
-# Hi 👋, I'm Catalin ![output-onlinepngtools](https://user-images.githubusercontent.com/30151847/123761237-49517280-d8ca-11eb-9ad5-78f2803814d5.png)
+# Hi 👋 I'm Catalin ![output-onlinepngtools](https://user-images.githubusercontent.com/30151847/123761237-49517280-d8ca-11eb-9ad5-78f2803814d5.png)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalinghita8&hide=contribs&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
